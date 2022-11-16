@@ -1,0 +1,6 @@
+job_exported/**
+postgres_result.txt
+duckdb_result.txt
+creating_imdb_benchmarks.py
+job.duckdb
+job.duckdb.wal
